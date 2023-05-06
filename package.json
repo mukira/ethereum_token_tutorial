@@ -19,7 +19,7 @@
   "homepage": "https://github.com/danieljoonlee/ethereum_token_tutorial#readme",
   "dependencies": {
     "dotenv": "^5.0.1",
-    "truffle-hdwallet-provider": "0.0.3",
+    "truffle-hdwallet-provider": "1.0.17",
     "zeppelin-solidity": "1.7.0"
   }
 }
